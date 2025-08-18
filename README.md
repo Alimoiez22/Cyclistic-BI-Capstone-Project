@@ -1,83 +1,78 @@
-🚴 Cyclistic Business Intelligence Capstone Project
+# 🚴 Cyclistic Business Intelligence Capstone Project
+
+Welcome to my portfolio capstone project, developed as part of the **Google Business Intelligence Professional Certificate**. This end-to-end BI case study showcases the full business intelligence lifecycle—translating stakeholder goals into actionable insights with modern BI tools.
+
+📊 **[[LIVE Dashboard on Tableau Public](https://public.tableau.com/app/profile/ali.moiez/viz/Cyclistic_Capstone_Professional_Project/Cyclistic)](#)**  
 
 
-Welcome to my portfolio capstone project, developed as part of the Google Business Intelligence Professional Certificate. This end-to-end BI project showcases the full business intelligence lifecycle—translating stakeholder goals into actionable data insights using modern BI tools.
+---
 
-📊 LIVE Dashboard on Tableau Public → Click Here
-🔗 Connect with me on LinkedIn → Ali Moiez
+## 📌 Project Summary
+- **Organization:** Cyclistic (fictional Chicago-based bike-share company)  
+- **Goal:** Analyze rider usage patterns and recommend a marketing strategy to convert casual riders into annual members  
+- **Role:** Business Intelligence Analyst (Capstone Simulation)  
+- **Tools Used:** BigQuery · Google Sheets · SQL · Tableau Public · Google Docs  
 
-📌 Project Summary
-Organization: Cyclistic (fictional Chicago-based bike-share company)
+---
 
-Goal: Analyze usage trends and support a marketing strategy to convert casual riders into annual members
+## 🚀 Project Workflow  
 
-Role: Business Intelligence Analyst (Capstone Simulation)
+### 1. Business Documentation  
+Developed professional BI documentation to align business and data goals:  
+- ✅ Stakeholder Requirements Document (SRD)  
+- ✅ Business Requirements Document (BRD)  
+- ✅ BI Strategy & Planning Sheet  
 
-Tools Used:
-BigQuery · Google Sheets · SQL · Tableau Public · Google Docs
+These include KPIs, success metrics, project timeline, and business objectives.  
 
-🚀 Project Workflow
-🧾 1. Business Documentation
-Developed professional BI documentation to align business and data goals:
+---
 
-✅ Stakeholder Requirements Document (SRD)
+### 2. Data Exploration & Preparation (BigQuery)  
+- Cleaned, joined, and transformed 12 months of ride data (1.9M+ records)  
+- Performed aggregations using SQL in BigQuery  
+- Created calculated fields such as `ride_length_minutes`, `weekday`, and `user_type`  
+- Exported final cleaned dataset for visualization  
 
-✅ Business Requirements Document (BRD)
+---
 
-✅ BI Strategy & Planning Sheet
+### 3. Data Visualization (Tableau)  
+Designed an **interactive multi-page Tableau dashboard** highlighting:  
+- 📈 Ride volume and duration by user type  
+- 📍 Top start/end stations by number of rides  
+- 🕒 Weekday and monthly ride distribution  
+- 🗺️ Geographical ride patterns across neighborhoods  
 
-These documents include KPIs, metrics, success criteria, timeline, and business objectives.
+🔗 **[Explore Dashboard Here](#)**  
 
-🧪 2. Data Exploration & Preparation (BigQuery)
-Cleaned, joined, and transformed 12 months of ride data (1.9M+ records)
+---
 
-Performed aggregations using SQL in BigQuery
+## 🔍 Key Business Insights  
+- **Seasonal Trends:** Casual riders peak in summer; members ride consistently year-round  
+- **Behavioral Patterns:** Casual users take longer rides, members ride more frequently  
+- **Station Popularity:** Certain neighborhoods attract high casual rider activity  
+- **Conversion Opportunities:** Targeted marketing in top neighborhoods and summer months may increase member sign-ups  
 
-Created calculated fields such as ride_length_minutes, weekday, user_type, and more
+---
 
-Exported cleaned data for visualization
+## 💼 Skills Demonstrated  
 
-📊 3. Data Visualization (Tableau)
-Created an interactive, multi-page Tableau dashboard focused on:
+| Category             | Skills |
+|----------------------|-------------------------------------------|
+| Business Intelligence | Requirements gathering, stakeholder alignment |
+| Data Analysis         | SQL queries, data cleaning, feature engineering |
+| Visualization         | Interactive dashboards, data storytelling, UX in Tableau |
+| Communication         | Translating data into actionable strategies |
 
-📈 Ride volume and duration by user type
+---
 
-📍 Top start/end stations by number of rides
+## 📁 Project Assets  
+- `cyclistic_clean_visualization_data.csv` – Cleaned dataset for visualization  
+- `Business_Docs/` – BI planning & requirements documents  
+- Tableau Dashboard – [View Online](#)  
 
-🕒 Weekday and monthly ride distribution
+---
 
-🗺️ Geographical insights by neighborhood and zip code
-
-🔗 Explore Dashboard Here
-
-🔍 Key Business Insights
-Seasonal Trends: Casual riders peak in summer; members ride consistently year-round.
-
-Behavioral Patterns: Casual users take longer rides; members ride more frequently.
-
-Station Popularity: Specific neighborhoods and stations have high casual rider activity.
-
-Conversion Opportunities: Targeted campaigns in top zip codes and summer months may boost membership conversions.
-
-💼 Skills Demonstrated
-Category	Skill
-Business Intelligence	Requirements gathering, documentation, stakeholder alignment
-Data Analysis	SQL queries, data cleaning, feature engineering
-Visualization	Interactive dashboards, data storytelling, UX in Tableau
-Communication	Translating data into actionable business strategies
-
-📁 Project Assets
-cyclistic_clean_visualization_data.csv – Cleaned dataset used for visualization
-
-Business_Docs/ – All BI planning and requirements docs
-
-Tableau Dashboard – View here
-
-📬 Let’s Connect!
-If you found this project insightful or would like to collaborate:
-
-💼 LinkedIn: Ali Moiez
-
-📊 Tableau Public Portfolio
-
-
+## 📬 Let’s Connect!  
+If you found this project insightful or would like to collaborate:  
+- 💼 [LinkedIn – Ali Moiez](#)  
+- 📊 [[Tableau Public Portfolio](https://public.tableau.com/app/profile/ali.moiez/viz/Cyclistic_Capstone_Professional_Project/Cyclistic)](#)  
